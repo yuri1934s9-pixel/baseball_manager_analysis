@@ -1,1 +1,0 @@
-# baseball_manager_analysis
