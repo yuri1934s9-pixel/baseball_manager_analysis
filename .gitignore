@@ -12,3 +12,8 @@
 .Rhistory
 .RData
 .Rproj.user/
+
+# 以下を追記してください
+players_html/
+players_text_batting/
+players_text_pitching/
